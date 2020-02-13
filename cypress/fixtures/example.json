@@ -1,0 +1,8 @@
+{
+  "fullName": "Raju Bhattarai",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "mobileNumber":"9860170064",
+  "password":"raju123",
+  "dateOfBirth":"1996/08/25"
+}
